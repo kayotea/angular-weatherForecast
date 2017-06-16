@@ -1,0 +1,10 @@
+*{
+    margin: 0px;
+}
+.washington {
+    border: 2px dotted palegreen;
+    padding: 20px;
+}
+h3, p {
+    margin: 10px;
+}

@@ -1,0 +1,10 @@
+*{
+    margin: 0px;
+}
+.seattle {
+    border: 2px dotted lightblue;
+    padding: 20px;
+}
+h3, p {
+    margin: 10px;
+}

@@ -1,0 +1,10 @@
+*{
+    margin: 0px;
+}
+.chicago {
+    border: 2px dotted palevioletred;
+    padding: 20px;
+}
+h3, p {
+    margin: 10px;
+}
